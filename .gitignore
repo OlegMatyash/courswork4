@@ -1,0 +1,6 @@
+/.idea
+../courswork3/dao/__pycache__
+helpers/__pycache__
+../courswork3/views/__pycache__
+.DS_Store
+__pycache__
